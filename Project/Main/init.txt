@@ -1,0 +1,4 @@
+2
+
+1 - com.mlalic.console.Main.start();
+2 - com.mlalic.gui.Main.start();
